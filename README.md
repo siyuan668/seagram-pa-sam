@@ -14,7 +14,7 @@ The architecture of the prompt adapter, which achieves adaptive detail enhanceme
 The code package can be cloned from the git repository using:
 
 ```bash
-> git clone https://github.com/xzz2/pa-sam.git
+> git clone https://github.com/siyuan668/seagram-pa-sam.git
 ```
 
 ### Anaconda Environment Setup
