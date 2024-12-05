@@ -5,6 +5,10 @@
 
 The Segment Anything Model (SAM) has exhibited outstanding performance in various image segmentation tasks. Despite being trained with over a billion masks, SAM faces challenges in mask prediction quality in numerous scenarios, especially in real-world contexts. In this repo, we fine tune Prompt Adapter Segment Anything Model (PA-SAM), aiming to enhance the segmentation mask quality of the UAV seagrass images. 
 
+<p align="center">
+<img src="figs/overlapped_image_out_0305.png "center" width="75%"/>
+</p>
+
 
 The architecture of the prompt adapter, which achieves adaptive detail enhancement using a consistent representation module (CRM) and token-to-image attention, and implements hard point mining using the Gumbel top-k point sampler.
 
